@@ -1,0 +1,195 @@
+.abel{
+	font-family: Abel;
+}
+
+.noto{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.navbar-brand{
+	margin: 0 !important;
+}
+
+.container-fluid{
+	padding: 0 !important;
+}
+
+.back1{
+	width: 100%;
+	top: -0px;
+	position: relative;
+}
+
+.box{
+	height: 25em;
+	overflow: hidden;
+}
+
+.nav-link{
+	color: black !important;
+	text-align: center;
+}
+
+.title{
+	color: black !important;
+	margin-top: 2em;
+	font-size: 2em;
+}
+
+.underline{
+	color: #E35B16;
+	border: 0.05em solid #E35B16;
+}
+
+.hotelSection{
+	margin: 5em 0;
+}
+
+.box-title{
+	font-size: 1.75em;
+	margin: 5px 0px;
+}
+
+.box-content{
+	font-size: 1.2em;
+	margin: 20px 0px;
+}
+
+.box-link{
+	color: #FF1E40;
+	transition: all 0.6s ease;
+	padding: 10px;
+	margin-top: 100px !important;
+	
+}
+
+.box-link:hover{
+	color: #fff;
+	background: #FF1E40; 
+}
+
+.link-underline{
+	color: #E35B16;
+	margin: 0;
+	border: 0.03em solid #E35B16
+}
+
+#Menu{
+	position: relative;
+	z-index: 100000;
+	background-color:  white;
+	height: 100%;
+	
+}
+
+.menu-logo{
+	width: 100%;
+	color: #fff !important;
+	margin: 2em 0;
+	border: solid 2px #FF1E40;
+	border-radius: 50%;
+	padding: 15px 0px;
+}
+
+.rame{
+	display: none;
+}
+
+.displayOn{
+	display: block;
+	transition: all 0.6s ease;
+}
+
+#close{
+	float: left;
+	padding: 10px 15px;
+	margin-right: 20px;
+	position: absolute;
+	background-color: #fff;
+	margin: 10px;
+	color: black !important;
+	border: solid 1px black;
+}
+
+.menu-item-title{
+	color: #FF1E40 !important;
+	border: solid 2px white;
+	border-radius: 20px;
+}
+
+.itemUnderline{
+	width: 50%;
+}
+
+.item-section{
+	font-size: 1.25em;
+}
+
+.back-section{
+	margin-top: 30px;
+}
+
+.menu-underline{
+	border: solid 2px black;
+	margin:0;
+}
+
+.section-line{
+	border: solid 2px black;
+	margin: 100px 0px;
+}
+
+.room2{
+	position: relative;
+	top: -200px;
+}
+
+.location-title{
+	color: black !important;
+	margin-bottom: 100px;
+	font-size: 2em;
+}
+
+.footer{
+	background-color: #14314A;
+	padding: 2em 4em;
+}
+
+.footerUl-li h2{
+	font-size: 1.25em;
+	color: white !important;
+}
+
+.footerUl-li h1{
+	font-size: 1.5em;
+	color: white !important;
+}
+
+.footer-ul{
+	margin: 0;
+}
+
+.subscribe{
+	padding: 10px 20px;
+	border: solid 2px white;
+	background-color: #14314A !important;
+	color: white !important;
+	transition: all 0.6s ease;
+	margin: 3em 0;
+}
+
+.subscribe:hover{
+	background-color: white !important;
+	color: #14314A !important;
+}
+
+.thank{
+	display: none !important;
+}
+
+.author{
+	color: #FF1E40 !important;
+	font-size: 1.75em;
+	margin: 0;
+	float: right;
+}
